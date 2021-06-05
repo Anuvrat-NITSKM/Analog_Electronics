@@ -12,5 +12,5 @@ Resources for Analog Electronics
   - [Analog Electronic Circuit - IIT Kharagpur](https://www.youtube.com/playlist?list=PLbRMhDVUMngehqNF2w_UbAi94qIycZOTG)
   
 - Books
-  - Analog Electronics By U.A.Bakshi, A.P.Godse
+  - Analog Electronics by U.A.Bakshi, A.P.Godse
   - Analog Electronic Circuits by D.K. Kaushik 
